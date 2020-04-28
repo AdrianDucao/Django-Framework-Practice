@@ -21,3 +21,8 @@ $ django-admin startproject ProjectName
 
 $ python manage.py runserver
 ```
+
+## Dependencies
+* Python 3.7.6
+* pip3
+* Django
